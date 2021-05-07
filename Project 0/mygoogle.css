@@ -34,12 +34,12 @@ padding-right: 20px;
 }
 #search:hover
 {
-  box-shadow: 1px 1px 10px rgb(241, 240, 240), -1px -1px 10px rgb(241, 240, 240); 
+  box-shadow: 1px 1px 10px rgb(233, 233, 233), -1px -1px 10px rgb(233, 233, 233)!important; 
 }
 
 #search:focus
 {
-  box-shadow: none!important;
+  box-shadow: none;
 }
 .search-button input
 {
@@ -62,7 +62,7 @@ padding-right: 20px;
   }
   .footer{
     position: relative;
-    top: 450px;
+    top:255 ;
     background-color: #f1f1f1;
   }
   .country{
